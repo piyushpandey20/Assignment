@@ -1,0 +1,17 @@
+/* write your css here */
+.bannerBackground {
+    /* background-image: url('./assets/asset\ 179.png'); */
+    background: linear-gradient(90deg, rgba(254, 253, 253, 1) 0%, rgba(24, 229, 255, 0.49) 50%, rgba(255, 255, 255, 1) 100%);
+}
+.navBar{
+    background: linear-gradient(90deg, rgba(254, 253, 253, 1) 0%, rgba(24, 229, 255, 0.49) 50%, rgba(255, 255, 255, 1) 100%);
+}
+.sectionhBackground{
+    background-image: url('./assets//asset\ 181.png');
+}
+.mentorBackground{
+    background-image: url('./assets//asset\ 182.png');
+}
+.btnColor{
+    background-color: #01324e;
+}
